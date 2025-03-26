@@ -8,7 +8,7 @@ It contains project  implementing spring security basic authentication and JWT t
 ### Short description of important spring security concepts
 - **SecurityFilterChain**
 - **OncePerRequestFilter**
-- **UserDetails**, **UserDetailsService** 
+- **UserDetails**, **UserDetailsService**/ 
   In Spring Security, the UserDetailsService interface is responsible for retrieving user details from a data source (e.g., database, LDAP, or an in-memory store) for authentication and authorization. It returns a UserDetails object that        Spring Security uses for authentication & authorization.
 - **SessionCreationPolicy.STATELESS**
   s used to disable session management, ensuring that Spring Security does not create or use HTTP sessions. This is commonly used in JWT-based authentication and REST APIs, where each request is independently authenticated.
