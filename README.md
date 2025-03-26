@@ -1,8 +1,8 @@
-#Spring boot learning materials
+# Spring boot learning materials
 
 These are materials learning materials of my self study I've created to graps wast possibilities of Spring boot framework.
 
-##[spring-security directory](./spring-security/)
+## [spring-security directory](./spring-security/)
 It contains project  implementing spring security basic authentication and JWT token authorization.
 
 ### Short description of important spring security concepts
