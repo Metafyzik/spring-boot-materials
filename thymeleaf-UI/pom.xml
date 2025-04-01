@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>com.springmvcapp</groupId>
-	<artifactId>spring-mvc-application</artifactId>
+	<groupId>com.thymeleaf_ui</groupId>
+	<artifactId>thymeleaf-UI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-mvc-application</name>
-	<description>Spring MVC Thymeleaf App Example</description>
+	<name>thymeleaf UI</name>
+	<description>Spring Thymeleaf forms App Example</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
